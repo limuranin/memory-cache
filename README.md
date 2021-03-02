@@ -48,6 +48,7 @@ type Cacher interface {
 | MC_CACHE_CLEANING_INTERVAL  | Duration  | 30s  | Cleaning cache interval   |
 
 ## Документация
-Спецификация к клиенту находится в файле swagger.yml
+Спецификация к клиенту находится в файле [swagger.yml](swagger.yml)
 
-
+Содержимое файла можно загрузить в https://editor.swagger.io,
+чтобы посмотреть документацию с примерами и поработать с запросами на локальный сервер
